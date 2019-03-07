@@ -1,4 +1,4 @@
-import { LOGIN_START, LOGIN_START } from "../actions/actions.js";
+import { LOGIN_START, LOGIN_SUCCESS } from "../actions/actions.js";
 const initialState = {
   friends: [],
   deletingFriends: false,
